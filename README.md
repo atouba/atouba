@@ -8,5 +8,5 @@ You can click the Preview link to take a look at your changes.
 ```
 - 👋 Hi, I’m Anass TOUBA, atouba for short
 - 🌱 I’m currently focusing on my 42 cursus
-- 📫 How to reach me anasstouba5@gmail.com
 ```
+
