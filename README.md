@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @atouba
-- 👀 I’m interested in blockchain development and web3
+- 👋 Hi, I’m Anass TOUBA, atouba for short
+<!--- 👀 I’m interested in blockchain development and web3--->
 - 🌱 I’m currently focusing on my 42 cursus
-- 💞️ I’m looking to collaborate on ...
+<!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me anasstouba5@gmail.com
 
 <!---
